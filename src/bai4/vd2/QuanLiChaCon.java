@@ -10,5 +10,7 @@ public static void main(String[] args) {
 	obj1.phuongthuc3();
 	obj1.vidugoiprivate();
 	System.out.println(obj1);
+	
+	LopCon obj1 = new LopCon("Benn",100,9.9,"K21 CNTT")
 }
 }
